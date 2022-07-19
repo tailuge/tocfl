@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-FILE=./data/vocab.txt
+FILE=./data/vocab.raw
 if [ -f "$FILE" ]; then
     echo "$FILE exists."
 else 

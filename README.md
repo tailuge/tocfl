@@ -8,7 +8,7 @@ Useful scripts for TOCFL vocabulary
 yay links
 links -dump https://www.rulinmandarin.com/tocfl-level-5-and-level-6-vocabulary-word-list/ > vocab.txt
 wget https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus/blob/master/Monolingual_data/Chinese%2C%20Traditional.txt > corpus.txt
-
+curl -v -L -k https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus/blob/master/Monolingual_data/Chinese,%20Traditional.txt?raw=true
 
 ```
 
