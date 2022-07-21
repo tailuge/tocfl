@@ -6,6 +6,8 @@ An input set of vocabulary is joined with matching sentence from chinese languag
 
 Currently aimed at TOCFL level 5&6 vocab.
 
+![screenshot](./screenshot.png "Screenshot of ank card and linked pronunciation with translation")
+
 
 # Data
 
