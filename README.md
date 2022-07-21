@@ -33,7 +33,7 @@ Combines the vocab with corpus into tab seperated format for Anki study deck imp
 
 Data used in these scripts comes from
 
-https://www.tw.org/tocfl/
-https://www.rulinmandarin.com/
-https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus/
+* https://www.tw.org/tocfl/
+* https://www.rulinmandarin.com/
+* https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus/
 
